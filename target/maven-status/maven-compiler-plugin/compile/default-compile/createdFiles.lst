@@ -1,0 +1,7 @@
+com\josefdev\sistema\educa\dao\AlunoDAO.class
+com\josefdev\sistema\educa\servlet\AlunoServlet.class
+com\josefdev\sistema\educa\resources\JavaEE8Resource.class
+com\josefdev\sistema\educa\entity\AlunoEntity.class
+com\josefdev\sistema\educa\entity\MateriaEntity.class
+com\josefdev\sistema\educa\JAXRSConfiguration.class
+com\josefdev\sistema\educa\dao\BaseDAO.class
