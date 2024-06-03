@@ -1,0 +1,47 @@
+
+/* 
+    Created on : 1 de jun. de 2024, 14:23:09
+    Author     : ty_jo
+*/
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    border: 0;
+    box-sizing: border-box;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.botao{
+    height: 50px;
+    background-color: #b7443d;
+
+}
+
+.navbar{
+    padding-bottom: 0.5rem;
+    background-color: #d14841;
+    
+}
+
+.page-container{
+    position: relative;
+     background-color: #007aa4;
+    
+}
+
+.foto{
+    /*align-items: center;*/
+/*    width: 54%;
+    height: 100%;*/
+}
+
+.foteiner{
+/*    align-items: center;*/
+    display: grid;
+    place-items: center;
+/*    width: 1056px;*/
+    height: 534px;
+    
+}
+
